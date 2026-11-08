@@ -1,21 +1,21 @@
 # 📊 Customer Support Performance Analysis
 
-## Project Overview
-This project explores customer support ticket data to understand customer service performance, identify recurring issues, and evaluate resolution efficiency.
+## 📌 Project Overview
+This project analyzes customer support ticket data to evaluate support team performance, identify recurring customer issues, and understand ticket resolution efficiency.
 
-The goal is to turn raw customer support data into meaningful business insights that can help improve operational efficiency and customer satisfaction.
+The objective is to transform raw customer support data into meaningful business insights that can help improve operational efficiency and customer satisfaction.
 
 ## 🎯 Business Objectives
 - Analyze customer support ticket trends.
 - Evaluate ticket status and priority distribution.
-- Understand average first response and resolution times.
+- Identify common customer complaints and issues.
 - Examine customer satisfaction ratings.
-- Identify areas for operational improvement.
+- Understand ticket resolution patterns.
+- Identify opportunities for operational improvement.
 
 ## 📁 Dataset Description
-
-The dataset contains customer support records with information including:
-- Customer and ticket details
+The dataset contains **8,469 customer support records** with information such as:
+- Customer details
 - Product purchased
 - Ticket type and priority
 - Ticket status and resolution
@@ -23,46 +23,44 @@ The dataset contains customer support records with information including:
 - Time to resolution
 - Customer satisfaction rating
 
+## 🛠️ Tools & Technologies
+- **Microsoft Excel:** Data exploration, cleaning, and analysis.
+- **SQL:** Querying and analyzing customer support data.
 
-## Tools & Technologies
-
-- Microsoft Excel – Data exploration, cleaning and PivotTable analysis
-- SQL – Query-based data analysis
-- Python – Planned for further analysis
-- Power BI – Planned for dashboard development
+## 🔍 Analysis Performed
+- Explored dataset structure and columns.
+- Checked for duplicate records.
+- Examined missing values.
+- Analyzed ticket status distribution.
+- Evaluated customer satisfaction ratings.
+- Explored ticket categories and priorities.
 
 ## 📈 Key Business Questions
-
 1. What are the most common customer support issues?
-2. Which ticket priorities have the highest volume?
-3. How efficiently are tickets being resolved?
-4. What is the relationship between resolution time and customer satisfaction?
-5. Which areas need improvement to enhance customer experience?
+2. Which ticket statuses have the highest volume?
+3. How efficiently are customer support tickets resolved?
+4. How satisfied are customers with the support experience?
+5. Which areas require operational improvement?
 
-## Current Progress
+## 📊 Visualizations
+### Ticket Status Distribution
 
-- Dataset exploration completed.
-- Initial duplicate and missing-value checks performed.
-- Ticket status distribution analysed using Excel PivotTables.
-- Ticket status chart created.
-- SQL analysis and further visualisations in progress.
+![Ticket Status Analysis](ticket_status.png.jpg)
+
+## 💡 Business Insights
+The analysis focuses on understanding ticket distribution, customer satisfaction, and resolution patterns to identify potential areas for improvement in customer support operations.
 
 ## 🚀 Future Scope
-
-- Complete data cleaning and validation.
-- Perform SQL-based analysis.
-- Conduct exploratory data analysis using Python.
+- Perform advanced SQL analysis.
 - Develop an interactive Power BI dashboard.
-- Present actionable business recommendations.
+- Conduct exploratory data analysis using Python.
+- Generate actionable business recommendations.
 
 ## 👩‍💻 Author
 
 **Isha Roy**
 
-Aspiring Data Analyst | Business Analytics | SQL | Python | Excel | Power BI
+Aspiring Data Analyst | Excel | SQL | Business Analytics
 
 
 
-### Ticket Status Distribution
-
-![Ticket Status Distribution](ticket_status.png.jpg)
