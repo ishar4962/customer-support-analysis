@@ -52,5 +52,3 @@ The analysis examines ticket distribution, customer satisfaction and support pri
 **Isha Roy**
 
 Aspiring Data Analyst | Excel | SQL | Business Analytics
-
-
