@@ -45,11 +45,11 @@ The dataset contains **8,469 customer support records** with information such as
 ## 📊 Visualizations
 ### Ticket Status Distribution
 
-![Ticket Status Analysis](ticket_status.png.jpg)
+![Ticket Status Distribution](ticket_status.png.jpg)
 
-![Customer Satisfaction](customer_satisfaction.png)
+![Customer Satisfaction Distribution](customer_satisfaction.png)
 
-![Ticket Priority](ticket_priority.png)
+![Ticket Priority Distribution](ticket_priority.png)
 
 ## 💡 Business Insights
 The analysis focuses on understanding ticket distribution, customer satisfaction, and resolution patterns to identify potential areas for improvement in customer support operations.
