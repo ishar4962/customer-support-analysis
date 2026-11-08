@@ -57,3 +57,6 @@ The dataset contains customer support records with information including:
 **Isha Roy**
 
 Aspiring Data Analyst | Business Analytics | SQL | Python | Excel | Power BI
+
+
+![Customer Support Ticket Status Distribution](ticket_status.png)
