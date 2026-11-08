@@ -68,19 +68,19 @@ Analyzed ticket priority distribution.
 
 Analyzed the distribution of customer support tickets across different statuses.
 
-
+![Ticket Status Distribution](ticket_status.png.jpg)
 
 2. Customer Satisfaction Distribution
 
 Analyzed customer ratings on a scale of 1 to 5 to understand satisfaction patterns.
 
-
+![Customer Satisfaction Distribution](customer_satisfaction.jpg)
 
 3. Ticket Priority Distribution
 
 Analyzed the distribution of tickets across Critical, High, Medium and Low priority levels.
 
-
+![Ticket Priority Distribution](ticket_priority.jpg)
 
 💡 Key Business Insights
 
