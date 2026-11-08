@@ -23,11 +23,12 @@ The dataset contains customer support records with information including:
 - Time to resolution
 - Customer satisfaction rating
 
-## 🛠️ Tools & Technologies
 
-- Microsoft Excel – Data inspection and preparation
-- SQL – Planned for data querying
-- Python – Planned for exploratory data analysis
+## Tools & Technologies
+
+- Microsoft Excel – Data exploration, cleaning and PivotTable analysis
+- SQL – Query-based data analysis
+- Python – Planned for further analysis
 - Power BI – Planned for dashboard development
 
 ## 📈 Key Business Questions
@@ -38,11 +39,13 @@ The dataset contains customer support records with information including:
 4. What is the relationship between resolution time and customer satisfaction?
 5. Which areas need improvement to enhance customer experience?
 
-## 🔍 Current Progress
+## Current Progress
 
-- Initial dataset exploration completed.
-- Reviewed dataset columns and ticket categories.
-- Initial duplicate check performed.
+- Dataset exploration completed.
+- Initial duplicate and missing-value checks performed.
+- Ticket status distribution analysed using Excel PivotTables.
+- Ticket status chart created.
+- SQL analysis and further visualisations in progress.
 
 ## 🚀 Future Scope
 
@@ -59,4 +62,7 @@ The dataset contains customer support records with information including:
 Aspiring Data Analyst | Business Analytics | SQL | Python | Excel | Power BI
 
 
-![Customer Support Ticket Status Distribution](ticket_status.png)
+
+### Ticket Status Distribution
+
+![Ticket Status Distribution](ticket_status.png.jpg)
